@@ -1,0 +1,103 @@
+
+.logo_32 {
+    background-color: rgb(226, 55, 55);
+    color: white;
+    padding: 5px;
+}
+
+.nav_links {
+    color: white;
+}
+
+.navbar-toggler-icon {
+    background-color: white;
+    border: 5px solid white;
+}
+
+
+.navbar-toggler-icon {
+        background-color: white;
+        border: 5px solid white;
+    }
+
+
+.header-building {
+    background-color:#0c263b;
+    color: white;
+    padding:5px  15px;
+    margin: 2px;
+    font-family: 'Young Serif', serif;
+
+}
+
+.header-department {
+    background-color:#0c263b;
+    color: white;
+    padding:5px  15px;
+    margin: 2px;
+    font-family: 'Young Serif', serif;
+
+}
+
+.header-local {
+    background-color:#0c263b;
+    color: white;
+    padding:5px  15px;
+    margin: 2px;
+    font-family: 'Young Serif', serif;
+
+    
+}
+
+.main_border{
+    border: 6px solid rgb(228, 69, 12);
+    height: auto;
+    margin-bottom: 30px;
+}
+
+.main_color{
+    color:  rgb(228, 69, 12);
+}
+
+.img_header{
+    background-color:#0c263b;;
+    color: rgb(228, 69, 12);
+    height: 180px;
+    padding-top: 15px;
+    padding: 60px 15px;
+    font-family: 'Young Serif', serif;
+
+}
+
+
+/* Page 2 CSS */
+.cont .navbar-brand {
+    color: white;
+}
+.bottom{
+    padding-bottom: 5px;
+    padding-top: 0px;
+    font-size: 15px;
+    border-bottom: 1px solid  rgba(71, 69, 69, 0.247);
+}
+
+
+.hhh {
+    margin-left: 20px;
+    width: 150px;
+}
+
+.jhj {
+    color: aquamarine;
+    justify-content: center;
+    align-items: center;
+}
+
+.para {
+    justify-content: space-between;
+    display: flex;
+}
+
+.box9 {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
